@@ -13,7 +13,16 @@ BEGIN
     VALUE (test);
   SELECT
     test;
-
-   
+  SELECT
+    test;
+      SELECT
+        test;
+          SELECT
+            test;
+          SELECT
+            test;
+             SELECT
+               test; SELECT
+  test;
 END
-$$$$DELIMITER ;
+$$$$$$DELIMITER ;
