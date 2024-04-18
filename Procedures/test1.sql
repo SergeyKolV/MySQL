@@ -1,6 +1,6 @@
 ﻿DELIMITER $$
 
-CREATE PROCEDURE `test1`(IN test INT)
+CREATE PROCEDURE `test1`(IN test int)
 BEGIN
   SELECT
     test;
@@ -17,8 +17,9 @@ BEGIN
     test;
   SELECT
     test;
-SELECT
-  test;
+  SELECT
+    test;
+  SELECT
+    test;
 END
-$$
-DELIMITER ;
+$$DELIMITER ;
