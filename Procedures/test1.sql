@@ -21,5 +21,7 @@ BEGIN
     test;
   SELECT
     test;
+SELECT
+    test;
 END
 $$DELIMITER ;
