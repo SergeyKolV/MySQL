@@ -1,0 +1,9 @@
+﻿DELIMITER $$
+
+CREATE PROCEDURE `test_1`()
+BEGIN
+
+END
+$$
+
+DELIMITER ;
