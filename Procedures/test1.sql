@@ -22,4 +22,4 @@ BEGIN
   SELECT
     test;
 END
-$$$$$DELIMITER ;
+$$DELIMITER ;
