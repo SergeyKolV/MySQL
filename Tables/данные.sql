@@ -1,7 +1,6 @@
 ﻿CREATE TABLE `данные` (
   `id` INT DEFAULT NULL,
-  `name` VARCHAR(50) DEFAULT NULL,
-   `id` INT
+  `name` VARCHAR(50) DEFAULT NULL
 )
 ENGINE = INNODB,
 CHARACTER SET utf8mb4,
