@@ -1,4 +1,4 @@
-﻿CREATE TABLE `даннtые` (
+﻿CREATE TABLE `данные` (
   `id` INT DEFAULT NULL,
   `name` VARCHAR(50) DEFAULT NULL
 )
